@@ -10,7 +10,7 @@ int main(){
 
     int guessUser , compChoice;
 
-    cout<<"🎮 Welcome to Tic Tac Toe game 🎮"<<endl;
+    cout<<"🎮 Welcome to Rock-Paper-Scissors game 🎮"<<endl;
     cout<<"-----------------------------------------"<<endl;
     cout<<"Choose Number between 1 - 3"<<endl;
     cout<<"1 = Rock \t 2 = Paper \t 3 = Scissor."<<endl;
